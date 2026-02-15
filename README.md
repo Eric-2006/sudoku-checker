@@ -36,7 +36,7 @@ The program processes input via standard input, validates the data format, print
     ```
 
 ## Technical Note (Language)
-The source code, variable names, and internal comments are written in **Catalan**, as it was an academic project for University of Lleida (Catalonia) as part of the **Computer Science degree (Programació I, 2024-2025)**. This documentation is provided in English so more people can understand the project.
+The source code, variable names, internal comments and output console prints are written in **Catalan**, as it was an academic project for University of Lleida (Catalonia) as part of the **Computer Science degree (Programació I, 2024-2025)**. This documentation is provided in English so more people can understand the project.
 
 ---
 **Developed by:** Eric Buenavida Crespo.
